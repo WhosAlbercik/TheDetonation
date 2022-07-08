@@ -1,6 +1,17 @@
 # Compiled class file
 *.class
 
+*.md
+.gradle/**
+.idea/**
+build/**
+gradle/**
+run/**
+build.gradle
+gradle.properties
+gradlew
+gradlew.bat
+
 # Log file
 *.log
 
